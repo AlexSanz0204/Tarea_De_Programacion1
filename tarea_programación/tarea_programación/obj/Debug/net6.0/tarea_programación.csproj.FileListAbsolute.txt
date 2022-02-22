@@ -1,0 +1,15 @@
+C:\Users\Alex\Desktop\tarea_programación\tarea_programación\bin\Debug\net6.0\tarea_programación.exe
+C:\Users\Alex\Desktop\tarea_programación\tarea_programación\bin\Debug\net6.0\tarea_programación.deps.json
+C:\Users\Alex\Desktop\tarea_programación\tarea_programación\bin\Debug\net6.0\tarea_programación.runtimeconfig.json
+C:\Users\Alex\Desktop\tarea_programación\tarea_programación\bin\Debug\net6.0\tarea_programación.dll
+C:\Users\Alex\Desktop\tarea_programación\tarea_programación\bin\Debug\net6.0\ref\tarea_programación.dll
+C:\Users\Alex\Desktop\tarea_programación\tarea_programación\bin\Debug\net6.0\tarea_programación.pdb
+C:\Users\Alex\Desktop\tarea_programación\tarea_programación\obj\Debug\net6.0\tarea_programación.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\tarea_programación\tarea_programación\obj\Debug\net6.0\tarea_programación.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\tarea_programación\tarea_programación\obj\Debug\net6.0\tarea_programación.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\tarea_programación\tarea_programación\obj\Debug\net6.0\tarea_programación.AssemblyInfo.cs
+C:\Users\Alex\Desktop\tarea_programación\tarea_programación\obj\Debug\net6.0\tarea_programación.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\tarea_programación\tarea_programación\obj\Debug\net6.0\tarea_programación.dll
+C:\Users\Alex\Desktop\tarea_programación\tarea_programación\obj\Debug\net6.0\ref\tarea_programación.dll
+C:\Users\Alex\Desktop\tarea_programación\tarea_programación\obj\Debug\net6.0\tarea_programación.pdb
+C:\Users\Alex\Desktop\tarea_programación\tarea_programación\obj\Debug\net6.0\tarea_programación.genruntimeconfig.cache
